@@ -1,5 +1,0 @@
-{{#user}
-Name: Akash Maurya
-Skills: HTML, CSS, JS, Reactjs, MERN Stack
-Email: akashmaurya2037@gmail.com
-{{/user}}
